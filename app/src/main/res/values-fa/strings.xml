@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ثبت نام</string>
+    <string name="registeration">ثبت نام</string>
+    <string name="sign_up">ثبت نام</string>
+    <string name="username">نام کاربری</string>
+    <string name="mobile">موبایل</string>
+    <string name="email">ایمیل</string>
+    <string name="password">کلمه عبور</string>
+    <string name="confirm_password">تکرار کلمه عبور</string>
+</resources>

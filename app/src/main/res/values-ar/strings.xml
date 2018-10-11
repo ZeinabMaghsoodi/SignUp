@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">تسجیل</string>
+    <string name="registeration">تسجیل</string>
+    <string name="sign_up">تسجیل</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="mobile">التليفون المحمول</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمه السر</string>
+    <string name="confirm_password">تأكيد كلمة السر</string>
+</resources>

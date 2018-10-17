@@ -7,4 +7,5 @@
     <color name="background_Layout_Color">#8cdce2</color>
     <color name="title_Text_Color">#000</color>
     <color name="button_Background_Color">#6ecadf</color>
+    <color name="image_Background_Color">#74c7e6</color>
 </resources>
